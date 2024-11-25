@@ -54,9 +54,9 @@ Unlike traditional tier list creators, Tekken8 TierList Fusion allows groups of 
    ```
 
 2. **Install Dependencies:**
-  ```bash
-  npm install
-  ```
+    ```bash
+    npm install
+    ```
 
 3. **Configure Firebase:**
    ```bash
